@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35274cd1-510e-43c4-bb92-eb80b9f83122" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/clientConnection/ClientConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/clientConnection/ClientThreadHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/message/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/message/MessageInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/connectionHandling/ConnectionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/messageHandling/MessageHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/clientLog/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/serverLog/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
